@@ -1,0 +1,48 @@
+html{
+    background-color: #2e364f;
+}
+#header{
+    background-color: #2e364f;
+    color: rgb(239, 89, 57);
+    text-align: center;
+}
+#nameH1{
+    padding-top: 25vh;
+    font-size: 140px;
+    margin: 0;
+}
+h1{
+    font-family: 'Permanent Marker','Cursive';
+}
+#header a{
+    vertical-align: middle;
+    color: #f3f0e2;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#contactInfo{
+    margin: 20px;
+}
+#header img{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#Nav{
+    margin-top: 10px;
+}
+
+
+@media all and (max-width: 700px){
+    #header{
+        height: 100vh;
+    }
+    button{
+        margin: 4px;
+    }
+    #nameH1{
+        padding-top: 10vh;
+        font-size: 100px;
+        margin: 0;
+    }
+
+}
