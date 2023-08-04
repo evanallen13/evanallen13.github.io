@@ -22,13 +22,12 @@ h1{
 }
 #contactInfo{
     margin: 20px;
+    text-align: center;
 }
-#header img{
-    margin-left: 5px;
-    margin-right: 5px;
-}
-#Nav{
-    margin-top: 10px;
+#contactInfo i{
+    color: rgb(239, 89, 57); 
+    font-size: 100px;
+    margin: 0 5px 0 5px;
 }
 
 
