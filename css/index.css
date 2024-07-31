@@ -5,14 +5,16 @@ html{
     background-color: #2e364f;
     color: rgb(239, 89, 57);
     text-align: center;
+    font-family: 'Permanent Marker','Cursive';
 }
 #nameH1{
     padding-top: 25vh;
     font-size: 140px;
     margin: 0;
 }
-h1{
-    font-family: 'Permanent Marker','Cursive';
+#header h3{
+    padding-top: 0;
+    margin: 0;
 }
 #header a{
     vertical-align: middle;
