@@ -1,8 +1,23 @@
+---
+layout: default
+title: Evan Allen | GitHub & DevOps Consultant
+---
+
+<link rel="stylesheet" href="css/index.css">
+
 # 👋 Hi, I'm Evan Allen  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanallen13)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evanallen13)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanallen13+github@gmail.com)
+<div class="social-links">
+  <a href="https://www.linkedin.com/in/evanallen13" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/evanallen13" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:evanallen13+github@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
 ---
 
@@ -11,15 +26,15 @@
 With a strong background in **DevOps, GitHub, and Cloud Engineering**, I specialize in helping organizations **streamline their software development lifecycle** and **migrate to GitHub Enterprise** with ease.
 
 ### 🏆 Certifications  
-<p align="left">
-  <img src="images/az-204.png" alt="AZ-204" height="80">
-  <img src="images/dp-900.png" alt="DP-900" height="80">
-  <img src="images/az-900.png" alt="AZ-900" height="80">
-  <img src="images/ghas.png" alt="GitHub GHAS" height="80">
-  <img src="images/admin.png" alt="GitHub Admin" height="80">
-  <img src="images/actions.png" alt="GitHub Actions" height="80">
-  <img src="images/foundations.png" alt="GitHub Foundations" height="80">
-</p>
+<div class="certifications">
+  <img src="images/az-204.png" alt="AZ-204">
+  <img src="images/dp-900.png" alt="DP-900">
+  <img src="images/az-900.png" alt="AZ-900">
+  <img src="images/ghas.png" alt="GitHub GHAS">
+  <img src="images/admin.png" alt="GitHub Admin">
+  <img src="images/actions.png" alt="GitHub Actions">
+  <img src="images/foundations.png" alt="GitHub Foundations">
+</div>
 
 ---
 
