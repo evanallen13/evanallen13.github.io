@@ -13,6 +13,7 @@ With a strong background in **DevOps, GitHub, and Cloud Engineering**, I special
 ### 🏆 Certifications  
 <p align="left">
   <img src="images/az-204.png" alt="AZ-204" height="80">
+  <img src="images/ai-900.png" alt="ai-900.png" height="80">
   <img src="images/dp-900.png" alt="DP-900" height="80">
   <img src="images/az-900.png" alt="AZ-900" height="80">
   <img src="images/ghas.png" alt="GitHub GHAS" height="80">
