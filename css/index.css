@@ -8,7 +8,7 @@ html{
     font-family: 'Permanent Marker','Cursive';
 }
 #nameH1{
-    padding-top: 10vh;
+    padding-top: 2vh;
     font-size: 140px;
     margin: 0;
 }
@@ -39,10 +39,10 @@ html{
     margin: 0 10px 0 10px;
 }
 #certifications {
-    position: fixed;
+    /* position: fixed;
     bottom: 10px;
     left: 0;
-    right: 0;
+    right: 0; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,7 +50,7 @@ html{
 }
 a {text-decoration: none;}
 #certifications img {
-    width: 10%;
+    width: 12%;
 }
 @media only screen and (max-device-width: 480px) {
     #nameH1{
