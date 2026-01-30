@@ -50,8 +50,13 @@ html{
 }
 a {text-decoration: none;}
 #certifications img {
-    width: 12%;
+    width: 13%;
 }
+
+#certifications .need-padding {
+    width: 11% !important;
+}
+
 @media only screen and (max-device-width: 480px) {
     #nameH1{
         padding-top: 10vh;
